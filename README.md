@@ -1,4 +1,4 @@
-# Minimax Adaptive Positive Control — Nonnegative Disturbances
+# Minimax Adaptive Positive Control under Nonnegative Disturbances
 
 Jupyter Notebook example associated with the paper **“Minimax Adaptive Control of Positive Systems under Nonnegative Disturbances”** by Fethi Bencherki.
 
